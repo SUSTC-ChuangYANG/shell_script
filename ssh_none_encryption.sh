@@ -4,6 +4,7 @@
 # can be used in hadoop cluster configuration to achieve non-passwd login.
 # Notice! To use this script, you need to install sshpass.
 
+
 # write your ip_list here
 ip_list=(
 "server01"
